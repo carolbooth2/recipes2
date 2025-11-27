@@ -1,2 +1,4 @@
 *.png
-receipts/
+receipts/*
+!receipts/data
+!final.png
