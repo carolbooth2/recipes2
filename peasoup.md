@@ -3,5 +3,8 @@
 - spring onions £2.00
 - potato £2.50
 # Instructions
+- boil some water
+- put the peas in a pan
 - shell the peas
+
 
